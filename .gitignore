@@ -1,0 +1,9 @@
+# Datos y backups locales: nunca al repositorio
+datos/
+*.db
+*.db-wal
+*.db-shm
+economia-familiar-backup-*.json
+movimientos-*.csv
+.DS_Store
+Thumbs.db
